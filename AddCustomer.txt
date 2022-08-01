@@ -17,6 +17,9 @@ AddCustomer "Julia", "Little", "1300 Sunset blvd", "Hollywood", "CA", "98288"
 ' Valid Input 4
 AddCustomer "Maria", "Ford", "1400 Sunset blvd", "Hollywood", "CA", "98289"
 
+' Valid Input 5
+AddCustomer "Maria", "Ronald", "2500 Sunset blvd", "Hollywood", "CA", "98289"
+
 ' Invalid Input - missing Customer's First Name
 AddCustomer "", "Hanks", "165 Crescent Beach", "Surrey", "BC", "12345"
 

@@ -2,6 +2,8 @@
 
 ' ' Add Customer Creation
 
+' ' To test new ideas
+
 
 ' Valid Input
 AddCustomer "Julia", "Roberts", "1100 Sunset blvd", "Hollywood", "CA", "98286"

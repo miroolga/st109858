@@ -1,0 +1,13 @@
+' ' WebLoanApp
+
+' ' Add Customer Creation
+
+
+' Valid Input
+AddCustomer "Julia", "Roberts", "1100 Sunset blvd", "Hollywood", "CA", "98286"
+
+' Invalid Input - missing Customer's First Name
+AddCustomer "", "Hanks", "165 Crescent Beach", "Surrey", "BC", "12345"
+
+' Invalid Input - missing Customer's Last Name
+AddCustomer "Tom", "", "254 56 Avenue", "Vancouver", "BC", "45678"

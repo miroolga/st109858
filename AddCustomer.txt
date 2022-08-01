@@ -6,6 +6,15 @@
 ' Valid Input
 AddCustomer "Julia", "Roberts", "1100 Sunset blvd", "Hollywood", "CA", "98286"
 
+' Valid Input 2
+AddCustomer "Julia", "Fox", "1200 Sunset blvd", "Hollywood", "CA", "98287"
+
+' Valid Input 3
+AddCustomer "Julia", "Little", "1300 Sunset blvd", "Hollywood", "CA", "98288"
+
+' Valid Input 4
+AddCustomer "Maria", "Ford", "1400 Sunset blvd", "Hollywood", "CA", "98289"
+
 ' Invalid Input - missing Customer's First Name
 AddCustomer "", "Hanks", "165 Crescent Beach", "Surrey", "BC", "12345"
 
